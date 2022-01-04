@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.box {
+  display: flex;
+  justify-content: center;
+}
+
+.card-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 1rem;
+}
+
+button {
+  margin-bottom: 2rem;
+  border: none;
+}
